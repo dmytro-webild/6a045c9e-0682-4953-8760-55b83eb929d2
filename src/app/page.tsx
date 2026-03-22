@@ -69,7 +69,7 @@ export default function HomePage() {
               handle: "@chefmarcus",
               testimonial: "Urban Bites redefined our understanding of modern fine dining.",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-blonde-businesswoman-formal-dressed-isolated-dark-textured-background_613910-5399.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-blonde-businesswoman-formal-dressed-isolated-dark-textured-background_613910-5399.jpg?_wi=1",
               imageAlt: "Marcus Chen",
             },
             {
@@ -77,7 +77,7 @@ export default function HomePage() {
               handle: "@sophieliving",
               testimonial: "An unforgettable evening of culinary artistry.",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/happy-business-woman-standing-with-crossed-arms_23-2148095676.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/happy-business-woman-standing-with-crossed-arms_23-2148095676.jpg?_wi=1",
               imageAlt: "Sophie Laurent",
             },
             {
@@ -85,7 +85,7 @@ export default function HomePage() {
               handle: "@jmitchell",
               testimonial: "The service and atmosphere are simply impeccable.",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/attractive-blond-business-woman-white-shirt-eyeglasses-crossed-arms-grey-background_613910-11786.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/attractive-blond-business-woman-white-shirt-eyeglasses-crossed-arms-grey-background_613910-11786.jpg?_wi=1",
               imageAlt: "James Mitchell",
             },
           ]}
@@ -124,7 +124,7 @@ export default function HomePage() {
               title: "Refined Ambiance",
               description: "Step into an atmosphere of understated elegance where every detail has been thoughtfully curated to create the perfect setting for meaningful moments.",
               tag: "Atmosphere",
-              imageSrc: "http://img.b2bpic.net/free-photo/cafe-living-room-loft-style_1150-10725.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/cafe-living-room-loft-style_1150-10725.jpg?_wi=1",
               imageAlt: "Refined ambiance",
             },
             {
@@ -140,7 +140,7 @@ export default function HomePage() {
               title: "Exceptional Service",
               description: "Our dedicated team anticipates your needs with grace and professionalism, ensuring every moment of your visit is seamless and memorable.",
               tag: "Hospitality",
-              imageSrc: "http://img.b2bpic.net/free-photo/grey-painted-fancy-restaurant-with-empty-dinner-table_140725-8729.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/grey-painted-fancy-restaurant-with-empty-dinner-table_140725-8729.jpg?_wi=1",
               imageAlt: "Exceptional service",
             },
           ]}
@@ -185,21 +185,21 @@ export default function HomePage() {
               id: "dish-1",
               name: "Pan-Seared Scallops",
               price: "32",
-              imageSrc: "http://img.b2bpic.net/free-photo/grilled-roasted-chicken-steaks-vegetables-white-plate-with-sauce_114579-92.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/grilled-roasted-chicken-steaks-vegetables-white-plate-with-sauce_114579-92.jpg?_wi=1",
               imageAlt: "Pan-Seared Scallops",
             },
             {
               id: "dish-2",
               name: "Wagyu Ribeye",
               price: "58",
-              imageSrc: "http://img.b2bpic.net/free-photo/steak-with-cheese-vegetables-restaurant_501050-842.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/steak-with-cheese-vegetables-restaurant_501050-842.jpg?_wi=1",
               imageAlt: "Wagyu Ribeye",
             },
             {
               id: "dish-3",
               name: "Seasonal Vegetables",
               price: "18",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-view-vegetables-mushrooms-tomatoes-bell-peppers-cutting-board_140725-145783.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-view-vegetables-mushrooms-tomatoes-bell-peppers-cutting-board_140725-145783.jpg?_wi=1",
               imageAlt: "Seasonal Vegetables",
             },
           ]}
@@ -233,7 +233,7 @@ export default function HomePage() {
               role: "Food Critic",
               company: "Gourmet Magazine",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-blonde-businesswoman-formal-dressed-isolated-dark-textured-background_613910-5399.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-blonde-businesswoman-formal-dressed-isolated-dark-textured-background_613910-5399.jpg?_wi=2",
             },
             {
               id: "testimonial-2",
@@ -241,7 +241,7 @@ export default function HomePage() {
               role: "Business Executive",
               company: "Moretti Enterprises",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/happy-business-woman-standing-with-crossed-arms_23-2148095676.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/happy-business-woman-standing-with-crossed-arms_23-2148095676.jpg?_wi=2",
             },
             {
               id: "testimonial-3",
@@ -249,7 +249,7 @@ export default function HomePage() {
               role: "Event Planner",
               company: "Park Events",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/attractive-blond-business-woman-white-shirt-eyeglasses-crossed-arms-grey-background_613910-11786.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/attractive-blond-business-woman-white-shirt-eyeglasses-crossed-arms-grey-background_613910-11786.jpg?_wi=2",
             },
             {
               id: "testimonial-4",
@@ -292,7 +292,7 @@ export default function HomePage() {
             variant: "gradient-bars",
           }}
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-photo/close-up-restaurant-table-with-pink-velvet-chairs-grey-painted-hall-with-classic-paintings_140725-8705.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/close-up-restaurant-table-with-pink-velvet-chairs-grey-painted-hall-with-classic-paintings_140725-8705.jpg?_wi=1"
           imageAlt="Urban Bites Restaurant"
           mediaAnimation="slide-up"
           mediaPosition="right"
