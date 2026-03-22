@@ -62,42 +62,42 @@ export default function MenuPage() {
               id: "dish-1",
               name: "Pan-Seared Scallops",
               price: "32",
-              imageSrc: "http://img.b2bpic.net/free-photo/grilled-roasted-chicken-steaks-vegetables-white-plate-with-sauce_114579-92.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/grilled-roasted-chicken-steaks-vegetables-white-plate-with-sauce_114579-92.jpg?_wi=2",
               imageAlt: "Pan-Seared Scallops"
             },
             {
               id: "dish-2",
               name: "Wagyu Ribeye",
               price: "58",
-              imageSrc: "http://img.b2bpic.net/free-photo/steak-with-cheese-vegetables-restaurant_501050-842.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/steak-with-cheese-vegetables-restaurant_501050-842.jpg?_wi=2",
               imageAlt: "Wagyu Ribeye"
             },
             {
               id: "dish-3",
               name: "Seasonal Vegetables",
               price: "18",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-view-vegetables-mushrooms-tomatoes-bell-peppers-cutting-board_140725-145783.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-view-vegetables-mushrooms-tomatoes-bell-peppers-cutting-board_140725-145783.jpg?_wi=2",
               imageAlt: "Seasonal Vegetables"
             },
             {
               id: "dish-4",
               name: "Lobster Thermidor",
               price: "62",
-              imageSrc: "http://img.b2bpic.net/free-photo/grilled-roasted-chicken-steaks-vegetables-white-plate-with-sauce_114579-92.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/grilled-roasted-chicken-steaks-vegetables-white-plate-with-sauce_114579-92.jpg?_wi=3",
               imageAlt: "Lobster Thermidor"
             },
             {
               id: "dish-5",
               name: "Duck Confit",
               price: "48",
-              imageSrc: "http://img.b2bpic.net/free-photo/steak-with-cheese-vegetables-restaurant_501050-842.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/steak-with-cheese-vegetables-restaurant_501050-842.jpg?_wi=3",
               imageAlt: "Duck Confit"
             },
             {
               id: "dish-6",
               name: "Chocolate Soufflé",
               price: "14",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-view-vegetables-mushrooms-tomatoes-bell-peppers-cutting-board_140725-145783.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-view-vegetables-mushrooms-tomatoes-bell-peppers-cutting-board_140725-145783.jpg?_wi=3",
               imageAlt: "Chocolate Soufflé"
             }
           ]}
@@ -117,7 +117,7 @@ export default function MenuPage() {
             variant: "gradient-bars"
           }}
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-photo/close-up-restaurant-table-with-pink-velvet-chairs-grey-painted-hall-with-classic-paintings_140725-8705.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/close-up-restaurant-table-with-pink-velvet-chairs-grey-painted-hall-with-classic-paintings_140725-8705.jpg?_wi=2"
           imageAlt="Urban Bites Restaurant Ambiance"
           mediaAnimation="slide-up"
           mediaPosition="right"

@@ -49,7 +49,7 @@ export default function ContactPage() {
             variant: "gradient-bars",
           }}
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-photo/close-up-restaurant-table-with-pink-velvet-chairs-grey-painted-hall-with-classic-paintings_140725-8705.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/close-up-restaurant-table-with-pink-velvet-chairs-grey-painted-hall-with-classic-paintings_140725-8705.jpg?_wi=4"
           imageAlt="Urban Bites Restaurant"
           mediaAnimation="slide-up"
           mediaPosition="right"

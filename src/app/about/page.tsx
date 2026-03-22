@@ -75,7 +75,7 @@ export default function AboutPage() {
               title: "Ethical Sourcing",
               description: "We partner exclusively with suppliers who share our values of sustainability, quality, and ethical practices. Every ingredient matters.",
               tag: "Sustainability",
-              imageSrc: "http://img.b2bpic.net/free-photo/cafe-living-room-loft-style_1150-10725.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/cafe-living-room-loft-style_1150-10725.jpg?_wi=2",
               imageAlt: "Ethical sourcing",
             },
             {
@@ -83,7 +83,7 @@ export default function AboutPage() {
               title: "Passionate Team",
               description: "Our chefs, sommeliers, and hospitality professionals are united by a shared passion for excellence and a commitment to your satisfaction.",
               tag: "People",
-              imageSrc: "http://img.b2bpic.net/free-photo/grey-painted-fancy-restaurant-with-empty-dinner-table_140725-8729.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/grey-painted-fancy-restaurant-with-empty-dinner-table_140725-8729.jpg?_wi=2",
               imageAlt: "Passionate team",
             },
           ]}
@@ -130,7 +130,7 @@ export default function AboutPage() {
               role: "Food Critic",
               company: "Gourmet Magazine",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-blonde-businesswoman-formal-dressed-isolated-dark-textured-background_613910-5399.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-blonde-businesswoman-formal-dressed-isolated-dark-textured-background_613910-5399.jpg?_wi=3",
             },
             {
               id: "testimonial-2",
@@ -138,7 +138,7 @@ export default function AboutPage() {
               role: "Business Executive",
               company: "Moretti Enterprises",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/happy-business-woman-standing-with-crossed-arms_23-2148095676.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/happy-business-woman-standing-with-crossed-arms_23-2148095676.jpg?_wi=3",
             },
             {
               id: "testimonial-3",
@@ -146,7 +146,7 @@ export default function AboutPage() {
               role: "Event Planner",
               company: "Park Events",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/attractive-blond-business-woman-white-shirt-eyeglasses-crossed-arms-grey-background_613910-11786.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/attractive-blond-business-woman-white-shirt-eyeglasses-crossed-arms-grey-background_613910-11786.jpg?_wi=3",
             },
           ]}
           carouselMode="auto"
